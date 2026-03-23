@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ea38dda-048d-423e-b940-728c6d8927af" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/RIGID-MS-COCOAI.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RIGID-MS-COCOAI.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="5ea38dda-048d-423e-b940-728c6d8927af" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774294974291</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <option name="closed" value="true" />
+      <created>1774295037152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774295037152</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update">
+      <option name="closed" value="true" />
+      <created>1774295250719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774295250719</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
