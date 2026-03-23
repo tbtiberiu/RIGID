@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ea38dda-048d-423e-b940-728c6d8927af" name="Changes" comment="Format">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/RIGID.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RIDIG-140k-faces.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RIGID-MS-COCOAI.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RIGID.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RIGID.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RIGID-MS-COCOAI.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RIGID-MS-COCOAI.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
