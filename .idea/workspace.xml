@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ea38dda-048d-423e-b940-728c6d8927af" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/RIGID-AIGC-Detection.ipynb" afterDir="false" />
+    <list default="true" id="5ea38dda-048d-423e-b940-728c6d8927af" name="Changes" comment="Add RIGID-AIGC-Detection.ipynb">
+      <change afterPath="$PROJECT_DIR$/RIGID-AIGC-Detection-Benchmark.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RIGID-140k-faces.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RIGID-140k-Faces.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RIGID-140k-Faces.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RIGID-AIGC-Detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RIGID-140k-Real-and-Fake-Faces.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RIGID-MS-COCOAI.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RIGID-MS-COCOAI.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,16 +45,16 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/tiberiu/Documents/Dizertatie/RIGID&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
+    "last_opened_file_path": "/home/tiberiu/Documents/Dizertatie/RIGID",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -138,13 +139,22 @@
       <option name="project" value="LOCAL" />
       <updated>1774298759092</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add RIGID-AIGC-Detection.ipynb">
+      <option name="closed" value="true" />
+      <created>1774379611087</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774379611087</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Format" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Add RIGID-AIGC-Detection.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add RIGID-AIGC-Detection.ipynb" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
